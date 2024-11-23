@@ -1,4 +1,4 @@
-![logo](https://github.com/codes4education/codes4education/blob/main/Banner-big.jpg)
+![logo](https://github.com/codes4education/codes4education/blob/main/New_YT_Banner.png)
 
 <h1 align="center">Hi 👋, I'm Bhaskar Gupta</h1>
 <h3 align="center">5+ years of experience in Software Development and Web Development and also Part-Time Youtuber channel name (Code4education).</h3>
